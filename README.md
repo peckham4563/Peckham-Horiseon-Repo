@@ -12,6 +12,7 @@ N/A
 To use and view the HtML and CSS files, navigate throught the files included and open both respectfully. These files can be used as a template for other projects to show the correct format and usage of different HTML and CSS elements. 
 
 http://127.0.0.1:5500/Peckham-Horiseon-Repo/Challenge/Develop/index.html
+
 '''md
 ![alt text](assets/images/Horiseon-Page.jpg)
 '''
