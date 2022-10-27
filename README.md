@@ -14,7 +14,7 @@ To use and view the HtML and CSS files, navigate throught the files included and
 [http://127.0.0.1:5500/Peckham-Horiseon-Repo/Challenge/Develop/index.html
 ](http://127.0.0.1:5500/Peckham-Horiseon-Repo/Challenge/Develop/index.html)
 
-![Screenshot](/assets/images/Horiseon-Screenshot.png "Webpage Screenshot")
+![Screenshot](Challenge/Develop/assets/images/Horiseon-Screenshot.png "Webpage Screenshot")
 
 
 ## Credits
