@@ -14,7 +14,7 @@ To use and view the HtML and CSS files, navigate throught the files included and
 ## Website URL
 
 
-![Screenshot](Horiseon-Screenshot.png "Webpage Screenshot")
+![Screenshot](/Other/Horiseon-Screenshot.png "Webpage Screenshot")
 
 ## Credits
 
